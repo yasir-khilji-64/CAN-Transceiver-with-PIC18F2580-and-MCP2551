@@ -1,0 +1,37 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,3KITS ,1OKITS ,50KITS ,AMOUNT 3KITS ,AMOUNT 10KITS ,AMOUNT 50KITS ,Supplier-I Part #,Supplier-II,Mfr,Mfr Part #,Supplier-I,Supplier-II Price,Supplier-I Price
+1,Unpolarized capacitor,C,C1 C2 C3 C4 C9 C11,100nF,C_1206_3216Metric_Pad1.39x1.80mm_HandSolder,6,15,50,250,1,1,2,490-5273-1-ND,Mouser,Murata Electronics North America,GRM31A5C2J101JW01D,Digi-Key,$0.42 ,$0.42 
+2,Polarised capacitor,CP,C10 C12,100uF,CP_Elec_5x5.9,2,6,20,100,1,1,2,P15086CT-ND,Mouser,Panasonic Electronic Components,EEE-FT1C101AR,Digi-Key,$0.55 ,$0.52 
+3,Unpolarized capacitor,C,C13,10uF,C_1206_3216Metric_Pad1.39x1.80mm_HandSolder,1,3,10,50,1,1,2,311-2007-1-ND,Mouser,Yageo,CC1206ZRY5V6BB106,Digi-Key,$0.31 ,$0.32 
+4,Unpolarized capacitor,C,C7 C8,22pF,C_1206_3216Metric_Pad1.39x1.80mm_HandSolder,2,6,20,100,1,1,2,732-7867-1-ND,Mouser,Wurth Electronics Inc.,8.85E+11,Digi-Key,$0.11 ,$0.11 
+5,Unpolarized capacitor,C,C5 C6,560pF,C_1206_3216Metric_Pad1.39x1.80mm_HandSolder,2,6,20,100,1,1,2,311-4383-1-ND,Mouser,Yageo,CC1206JKNPOZBN561,Digi-Key,$0.26 ,$0.29 
+6,LED generic,LED,D1 D2 D3,Green,LED_1206_3216Metric_Pad1.22x1.80mm_HandSolder,3,9,30,150,1,1,2,160-1169-1-ND,Mouser,Lite-On Inc.,LTST-C150GKT,Digi-Key,$0.32 ,$0.34 
+7,"Schottky diode, small symbol",D_Schottky_Small,D4,MBR0530,D_SOD-123,1,3,10,50,1,1,1,MBR0530CT-ND,Mouser,ON Semiconductor,MBR0530,Digi-Key,$0.39 ,$0.40 
+8,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J5,CAN Conn,PinHeader_1x04_P2.54mm_Vertical,1,3,10,50,1,1,1,732-5317-ND,Mouser,Wurth Electronics Inc.,61300411121,Digi-Key,$0.20 ,$0.18 
+9,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x10,J6,GPIO,PinHeader_1x10_P2.54mm_Vertical,1,3,10,50,1,1,1,732-2670-ND,Mouser,Wurth Electronics Inc.,61301011121,Digi-Key,$0.96 ,$0.89 
+10,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J2,I2C Conn,PinHeader_1x04_P2.54mm_Vertical,1,3,10,50,1,1,1,732-5317-ND,Mouser,Wurth Electronics Inc.,61300411121,Digi-Key,$0.20 ,$0.18 
+11,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08,J1,PICKIT4 Conn,PinHeader_1x08_P2.54mm_Vertical,1,3,10,50,1,1,1,732-5321-ND,Mouser,Wurth Electronics Inc.,61300811121,Digi-Key,$0.40 ,$0.37 
+12,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06,J4,SPI Conn,PinHeader_1x06_P2.54mm_Vertical,1,3,10,50,1,1,1,732-5319-ND,Mouser,Wurth Electronics Inc.,61300811121,Digi-Key,$0.35 ,$0.33 
+13,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J3,UART Conn,PinHeader_1x04_P2.54mm_Vertical,1,3,10,50,1,1,1,732-5317-ND,Mouser,Wurth Electronics Inc.,61300811121,Digi-Key,$0.20 ,$0.18 
+14,Resistor,R,R2 R3,100,R_1206_3216Metric_Pad1.39x1.80mm_HandSolder,1,3,10,50,1,1,1,311-100FRCT-ND,Mouser,Yageo,RC1206FR-07100RL,Digi-Key,$0.23 ,$0.10 
+15,Resistor,R,R8,10k,R_1206_3216Metric_Pad1.39x1.80mm_HandSolder,1,3,10,50,1,1,1,YAG2329CT-ND,Mouser,Yageo,RT1206BRD0710KL,Digi-Key,$0.57 ,$0.58 
+16,Resistor,R,R4,1M,R_1206_3216Metric_Pad1.39x1.80mm_HandSolder,1,3,10,50,1,1,1,YAG3832CT-ND,Mouser,Yageo,AC1206FR-071ML,Digi-Key,$0.11 ,$0.10 
+17,Resistor,R,R5 R6 R7,330,R_1206_3216Metric_Pad1.39x1.80mm_HandSolder,1,3,10,50,1,1,1,311-330FRCT-ND,Mouser,Yageo,RC1206FR-07330RL,Digi-Key,$0.23 ,$0.10 
+18,Resistor,R,R1,4.7k,R_1206_3216Metric_Pad1.39x1.80mm_HandSolder,1,3,10,50,1,1,1,CRS1206-FX-4701ELFCT-ND,Mouser,Bourns Inc.,CRS1206-FX-4701ELF,Digi-Key,$0.36 ,$0.54 
+19,"High-Speed CAN Transceiver, 1Mbps, 5V supply, SOIC8 package",MCP2551-I-SN,U1,MCP2551-I-SN,SOIC-8_3.9x4.9mm_P1.27mm,1,3,10,50,6,6,30,MCP2551-I/SN-ND,Mouser,Microchip Technology,MCP2551-I/SN,Digi-Key,$1.06 ,$1.05 
+20,"1A Low drop-out regulator, Fixed Output 12V, TO-252 (DPAK)",NCP1117-5.0_TO252,U3,NCP1117-5.0_TO252,TO-252-2,1,3,10,50,3.5,3.5,17.5,NCP1117DT50GOS-ND,Mouser,ON Semiconductor,NCP1117DT50G,Digi-Key,$0.41 ,$0.41 
+21,"32K Flash, 3.5K RAM, 1K EEPROM, PIC18 Microcontroller ADC PWM CAN SPI I2C USART in SSOP28 package",PIC18F25K80_ISS,U2,PIC18F25K80_ISS,SSOP-28_5.3x10.2mm_P0.65mm,1,3,10,50,48,48,240,vPIC18F2580-I/SO-ND,Mouser,Microchip Technology,PIC18F2580-I/SO,Digi-Key,$5.18 ,$5.16 
+22,Two pin crystal,Crystal,Y1,20MHz,Crystal_SMD_HC49-SD_HandSoldering,1,3,10,50,2.8,2.8,14,535-9074-1-ND,Mouser,Abracon LLC,ABLS-20.000MHZ-B2-T,Digi-Key,$0.47 ,$0.28 
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,78.3,78.3,325.5,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Component Groups:,22,,,,,,,,,,,,,,,,,,
+Component Count:,35,,,,,,,,,,,,,,,,,,
+Fitted Components:,35,,,,,,,,,,,,,,,,,,
+Number of PCBs:,50,,,,,,,,,,,,,,,,,,
+Total components:,35,,,,,,,,,,,,,,,,,,
+Schematic Version:,v1.00,,,,,,,,,,,,,,,,,,
+Schematic Date:,9/6/2018,,,,,,,,,,,,,,,,,,
+BoM Date:,9/15/2018 0:16,,,,,,,,,,,,,,,,,,
+KiCad Version:,Eeschema (5.0.0),,,,,,,,,,,,,,,,,,

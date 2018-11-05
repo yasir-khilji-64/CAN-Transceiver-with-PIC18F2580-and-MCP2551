@@ -1,0 +1,40 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Supplier-I Part #,Mfr,Mfr Part #,Supplier-I,Nfr Part #
+1,Unpolarized capacitor,C,C1 C2 C3 C5 C10 C12,100nF,C_1206_3216Metric_Pad1.39x1.80mm_HandSolder,6,~,2332842,AVX,12061C104JAT2A,Farnell,
+2,Polarised capacitor,CP,C11 C13,100uF,CP_Elec_5x5.9,2,~,2065969,Panasonic Electronic Components,EEE-FT1C101AR,Farnell,
+3,Unpolarized capacitor,C,C7,10uF,C_1206_3216Metric_Pad1.39x1.80mm_HandSolder,1,~,3188954,Yageo,CC1206ZRY5V6BB106,Farnell,
+4,Unpolarized capacitor,C,C8 C9,22pF,C_1206_3216Metric_Pad1.39x1.80mm_HandSolder,2,~,2812188,Wurth Electronics Inc.,885012008011,Farnell,
+5,Unpolarized capacitor,C,C4 C6,560pF,C_1206_3216Metric_Pad1.39x1.80mm_HandSolder,2,~,2211027,Yageo,CC1206JKNPOZBN561,Farnell,
+6,LED generic,LED,D2 D3 D4 D5 D6 D7 D8 D9,Green,LED_1206_3216Metric_Pad1.22x1.80mm_HandSolder,8,~,8554595,BROADCOM LIMITED,HSMG-C150.,Farnell,
+7,Schottky diode,D_Schottky,D1,MBR0530,D_SOD-123,1,~,2463401,ON SEMICONDUCTOR,MBR0530,Farnell,
+8,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08,J7,Analog,PinHeader_1x08_P2.54mm_Vertical,1,~,2356160,WURTH ELEKTRONIK,61300811121,Farnell,
+9,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J5,CAN Conn,PinHeader_1x04_P2.54mm_Vertical,1,~,2356155,WURTH ELEKTRONIK,61300411121,Farnell,
+10,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J2,I2C Conn,PinHeader_1x04_P2.54mm_Vertical,1,~,2356155,WURTH ELEKTRONIK,61300411121,Farnell,
+11,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08,J1,PICKIT4 Conn,PinHeader_1x08_P2.54mm_Horizontal,1,~,2356183,WURTH ELEKTRONIK,61300811021,Farnell,
+12,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x10,J6,PORT B,PinHeader_1x10_P2.54mm_Vertical,1,~,1841229,WURTH ELEKTRONIK,,Farnell,61301011121
+13,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06,J4,SPI Conn,PinHeader_1x06_P2.54mm_Vertical,1,~,2356158,WURTH ELEKTRONIK,61300611121,Farnell,
+14,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J3,UART Conn,PinHeader_1x04_P2.54mm_Vertical,1,~,2356155,WURTH ELEKTRONIK,61300411121,Farnell,
+15,"Jumper, normally closed",Jumper_NC_Small,JP1,JP_LED,PinHeader_1x02_P2.54mm_Vertical,1,~,9731075,MOLEX,22-03-2021,Farnell,
+16,Resistor,R,R3 R4,100,R_1206_3216Metric_Pad1.39x1.80mm_HandSolder,2,~,9240888,Yageo,RC1206FR-07100RL,Farnell,
+17,Resistor,R,R2,10k,R_1206_3216Metric_Pad1.39x1.80mm_HandSolder,1,~,1653333,VISHAY,TNPW120610K0BEEA,Farnell,
+18,Resistor,R,R5,1M,R_1206_3216Metric_Pad1.39x1.80mm_HandSolder,1,~,1469968,VISHAY,CRCW12061M00FKEA,Farnell,
+19,Resistor,R,R6,330,R_1206_3216Metric_Pad1.39x1.80mm_HandSolder,1,~,9240918,Yageo,RC1206FR-07330RL,Farnell,
+20,Resistor,R,R1,4.7k,R_1206_3216Metric_Pad1.39x1.80mm_HandSolder,1,~,2470962,Bourns Inc.,CRS1206-FX-4701ELF,Farnell,
+21,"High-Speed CAN Transceiver, 1Mbps, 5V supply, SOIC8 package",MCP2551-I-SN,U1,MCP2551-I-SN,SOIC-8_3.9x4.9mm_P1.27mm,1,http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf,9758569,Microchip Technology,MCP2551-I/SN,Farnell,
+22,"1A Low drop-out regulator, Fixed Output 12V, TO-252 (DPAK)",NCP1117-5.0_TO252,U3,NCP1117-5.0_TO252,TO-252-2,1,http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF,2296057,ON SEMICONDUCTOR,NCP1117DT50G,Farnell,
+23,"32K Flash, 3.5K RAM, 1K EEPROM, PIC18 Microcontroller ADC PWM CAN SPI I2C USART in SSOP28 package",PIC18F25K80_ISS,U2,PIC18F25K80_ISS,SSOP-28_5.3x10.2mm_P0.65mm,1,http://ww1.microchip.com/downloads/en/DeviceDoc/39977f.pdf,9321284,Microchip Technology,PIC18F2580-I/SO,Farnell,
+24,Two pin crystal,Crystal,Y1,20MHz,Crystal_SMD_HC49-SD_HandSoldering,1,~,2467724,Abracon LLC,ABLS-20.000MHZ-B2-T,Farnell,
+
+
+
+
+
+Component Groups:,24
+Component Count:,40
+Fitted Components:,40
+Number of PCBs:,1
+Total components:,40
+Schematic Version:,v2.0.0
+Schematic Date:,2018-10-30
+BoM Date:,11/6/2018 1:54:50 AM
+Schematic Source:,C:\Personal\Work\Upwork\Raditex Control AB-PIC18F2580 and CAN Work\V2.0.0\Dev Board\Dev Board.sch
+KiCad Version:,Eeschema (5.0.0)

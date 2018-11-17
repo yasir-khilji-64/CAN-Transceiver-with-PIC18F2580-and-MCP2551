@@ -1036,9 +1036,9 @@ F 7 "2332842" H 2400 2950 50  0001 C CNN "Supplier-I Part #"
 $EndComp
 Text Label 3600 3350 2    50   ~ 0
 ~MCLR
-Text Label 3600 3050 2    50   ~ 0
-RB6_PGC
 Text Label 3600 2950 2    50   ~ 0
+RB6_PGC
+Text Label 3600 3050 2    50   ~ 0
 RB7_PGD
 Wire Wire Line
 	3250 3350 3600 3350

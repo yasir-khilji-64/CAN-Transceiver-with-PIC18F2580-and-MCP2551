@@ -10,4 +10,4 @@ Current version is **v2.0**. The device uses **PIC18F25K80** as the base MCU. Ot
 <p align="center"><img src="Version-2.0.png"></p>
 
 ## Built With
-* [KiCad 5.0](http://kicad-pcb.org) - PCB Design Tool
+* [KiCad 5.0](http://kicad.org) - PCB Design Tool
